@@ -1,0 +1,40 @@
+{
+    "name": "CLICK",
+    "maps": [
+        {
+            "name": "Click",
+            "id": "340f0c72-b56e-4689-aa10-25bb2dbd2fb0",
+            "actions": [
+                {
+                    "name": "SelectStar",
+                    "type": "Button",
+                    "id": "6a993926-f7fc-4643-bee4-ce7e36524559",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "98cba86a-34ed-484c-9792-f587fa2e1d7c",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "ClickandSpin",
+                    "action": "SelectStar",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "ClickandSpin",
+            "bindingGroup": "ClickandSpin",
+            "devices": []
+        }
+    ]
+}
