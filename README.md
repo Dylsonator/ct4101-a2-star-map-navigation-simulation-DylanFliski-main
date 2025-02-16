@@ -11,3 +11,8 @@
 
 🏷️ 3D Name Displays – Labels for celestial objects in a 3D space.<br/>
 ![Screenshot 2025-02-16 012227](https://github.com/user-attachments/assets/dc64cb19-ad3a-4820-af5e-eb22a384c7ad)<br/>
+
+## Controls:<br/>
+Arrow Keys: move Camera<br/>
+H Key: Hide/Unhide UI<br/>
+
