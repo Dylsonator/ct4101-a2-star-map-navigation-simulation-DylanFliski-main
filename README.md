@@ -14,7 +14,7 @@
 
 ## Controls:<br/>
 ### Arrow Keys:
-move Camera<br/>
+Move Camera<br/>
 ### H Key:
 Hide/Unhide UI<br/>
 
